@@ -1,0 +1,27 @@
+{
+     "@context": "http://iiif.io/api/presentation/3/context.json",
+     "type": "Collection",
+     "label": "Book Model Collection",
+     "items": [
+       {
+         "id": "https://nbaur.github.io/UIowaSandbox/images/ui_binding_656/info.json",
+         "type": "Manifest",
+         "label": "Front"
+       },
+       {
+         "id": "https://nbaur.github.io/UIowaSandbox/images/ui_binding_658/info.json",
+         "type": "Manifest",
+         "label": "Back"
+       }
+{
+         "id": "https://nbaur.github.io/UIowaSandbox/images/ui_29610/info.json",
+         "type": "Manifest",
+         "label": "Inside"
+       },
+{
+         "id": "https://nbaur.github.io/UIowaSandbox/images/ui_binding_657/info.json",
+         "type": "Manifest",
+         "label": "Spine"
+       }
+     ]
+   }
